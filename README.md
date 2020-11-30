@@ -1,3 +1,3 @@
-![](images/demo1.png)
-![](images/demo2.png)
+![](images/demo1.PNG)
+![](images/demo2.PNG)
 ![](images/demogif.gif)
